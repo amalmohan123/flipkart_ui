@@ -280,7 +280,7 @@ class _CartState extends State<Cart> {
                   const Text('Delivery Charges'),
                   const SizedBox(width: 171),
                   Text(
-                    'FREE Delivery',
+                    'FREE Delivery' ,
                     style: TextStyle(
                       color: Colors.green[600],
                     ),
